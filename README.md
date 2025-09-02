@@ -28,7 +28,7 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 **Back-end:**
 
-![Java](./assetsReadMe/Java.jpg)
+<img src="./assetsReadMe/Java.jpg" alt="Java" width="25" height="25"/>
 ![IntelliJ](./assetsReadMe/IntelliJ.png) 
 ![SpringBoot](./assetsReadMe/SprinBoot.png) 
 ![Supabase](./assetsReadMe/Supabase.png)
