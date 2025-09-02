@@ -11,16 +11,19 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 [COLOCAR LOGO]
 
+<br>
+<br>
 
 ## Funcionalidades
-
 - <img src="./assetsReadMe/Funcionalidade/barcode.png" alt="" width="19" height="19"/> Scanear produtos pelo Celular
 - <img src="./assetsReadMe/Funcionalidade/scanner.png" alt="" width="19" height="19"/> Barcode usado para converter código de barras em números
 - <img src="./assetsReadMe/Funcionalidade/numbers.png" alt="Ícone Números" width="19" height="19"/>  Os números usados para pesquisa na API
 - <img src="./assetsReadMe/Funcionalidade/api.png" alt="Ícone API" width="19" height="19"/> Se o produto estiver no banco de dados ele puxa do banco, se não pega da API
 - <img src="./assetsReadMe/Funcionalidade/cart.png" alt="Ícone Carrinho de Compra" width="19" height="19"/> Carrinho de compra
-- 🎁 Finaliza Compra
+- <img src="./assetsReadMe/Funcionalidade/present.png" alt="Ícone Carrinho de Compra" width="19" height="19"/> Finaliza Compra
 
+<br>
+<br>
 
 ## Stack utilizada
 
