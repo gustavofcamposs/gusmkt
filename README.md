@@ -28,8 +28,8 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 **Back-end:**
 
-<img src="./assetsReadMe/Java.jpg" alt="Java" width="25" height="25"/>
-![IntelliJ](./assetsReadMe/IntelliJ.png) 
-![SpringBoot](./assetsReadMe/SprinBoot.png) 
-![Supabase](./assetsReadMe/Supabase.png)
+<img src="./assetsReadMe/Java.jpg" alt="Java" width="25" height="25"/> Java
+<img src="./assetsReadMe/IntelliJ.png" alt="Java" width="25" height="25"/> IntelliJ 
+<img src="./assetsReadMe/SprinBoot.png" alt="Java" width="25" height="25"/> SpringBoot
+<img src="./assetsReadMe/Supabase.png" alt="Java" width="25" height="25"/> Supabase
 
