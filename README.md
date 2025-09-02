@@ -28,8 +28,8 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 **Back-end:**
 
-![Java](.assetsReadMe/Java.jpg)
-![IntelliJ](.assetsReadMe/IntelliJ.png) 
-![SpringBoot](.assetsReadMe/SprinBoot.png) 
-![Supabase](.assetsReadMe/Supabase.png)
+![Java](./assetsReadMe/Java.jpg)
+![IntelliJ](./assetsReadMe/IntelliJ.png) 
+![SpringBoot](./assetsReadMe/SprinBoot.png) 
+![Supabase](./assetsReadMe/Supabase.png)
 
