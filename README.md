@@ -14,11 +14,11 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 ## Funcionalidades
 
-- 📡 Scanear produtos pelo Celular
-- 🧬 Barcode usado para converter código de barras em números
-- 🔢 Os números usados para pesquisa na API
-- 🪄 Se o produto estiver no banco de dados ele puxa do banco, se não pega da API
-- 🛍️ Carrinho de compra
+- <img src="./assetsReadMe/Funcionalidade/barcode.png" alt="" width="19" height="19"/> Scanear produtos pelo Celular
+- <img src="./assetsReadMe/Funcionalidade/scanner.png" alt="" width="19" height="19"/> Barcode usado para converter código de barras em números
+- <img src="./assetsReadMe/Funcionalidade/numbers.png" alt="Ícone Números" width="19" height="19"/>  Os números usados para pesquisa na API
+- <img src="./assetsReadMe/Funcionalidade/api.png" alt="Ícone API" width="19" height="19"/> Se o produto estiver no banco de dados ele puxa do banco, se não pega da API
+- <img src="./assetsReadMe/Funcionalidade/cart.png" alt="Ícone Carrinho de Compra" width="19" height="19"/> Carrinho de compra
 - 🎁 Finaliza Compra
 
 
@@ -28,8 +28,8 @@ Confira o código e veja como essa ideia foi estruturada! 👀 🔍 📂
 
 **Back-end:**
 
-<img src="./assetsReadMe/Java.png" alt="Java" width="25" height="25"/> Java
-<img src="./assetsReadMe/IntelliJ.png" alt="Java" width="25" height="25"/> IntelliJ 
-<img src="./assetsReadMe/SprinBoot.png" alt="Java" width="25" height="25"/> SpringBoot
-<img src="./assetsReadMe/Supabase.png" alt="Java" width="25" height="25"/> Supabase
+<img src="./assetsReadMe/Java.png" alt="Java" width="18" height="18"/> Java
+<img src="./assetsReadMe/IntelliJ.png" alt="IntelliJ" width="18" height="18"/> IntelliJ 
+<img src="./assetsReadMe/SprinBoot.png" alt="SpringBoot" width="18" height="18"/> SpringBoot
+<img src="./assetsReadMe/Supabase.png" alt="Supabase" width="18" height="18"/> Supabase
 
